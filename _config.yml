@@ -1,0 +1,29 @@
+title: Harry Zhang
+description: >-
+  {{ EDIT: one-line tagline goes here }}
+url: "https://resouer.github.io"
+
+theme: minima
+
+minima:
+  skin: classic
+  date_format: "%b %-d, %Y"
+  social_links:
+    github: resouer
+
+header_pages:
+  - projects.md
+  - blog.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title/
+
+show_excerpts: true
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
