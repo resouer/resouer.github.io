@@ -31,7 +31,7 @@ title: Lei Zhang
   </li>
   <li>
     <div class="role-line"><span class="role-title">Partner Software Architect / Director</span> at <span class="role-company"><img src="/assets/logos/microsoft.svg" alt="" />Microsoft</span></div>
-    <p>Architected compute platform of Microsoft CoreAI and designed industry's first autonomous AI agent services from 0 to 1 — SRE Agent and Foundry Agent Service.</p>
+    <p>Architect for the compute platform of Microsoft CoreAI and the industry's first autonomous AI agent services — SRE Agent and Foundry Agent Service.</p>
   </li>
   <li>
     <div class="role-line"><span class="role-title">Staff Engineer / Sr. Engineering Manager</span> at <span class="role-company"><img src="/assets/logos/alibabacloud.svg" alt="" />Alibaba Group</span></div>
