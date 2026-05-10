@@ -17,6 +17,7 @@ title: Lei Zhang
 <a href="https://github.com/resouer" aria-label="GitHub"><img src="/assets/logos/github.svg" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/harry-lei-zhang/" aria-label="LinkedIn"><img src="/assets/logos/linkedin.png" alt="LinkedIn" /></a>
 <a href="https://x.com/resouer" aria-label="X"><img src="/assets/logos/x.svg" alt="X" /></a>
+<a href="mailto:resouer@gmail.com" aria-label="Email"><img src="/assets/logos/email.svg" alt="Email" /></a>
 </p>
 
 </div>
