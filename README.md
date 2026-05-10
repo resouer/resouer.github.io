@@ -1,6 +1,6 @@
 # resouer.github.io
 
-Personal site of Harry Zhang. Built with [Jekyll](https://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com/).
+Personal site of Lei Zhang. Built with [Jekyll](https://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com/).
 
 Live at: <https://resouer.github.io>
 

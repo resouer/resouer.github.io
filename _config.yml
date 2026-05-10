@@ -1,6 +1,5 @@
-title: Harry Zhang
-description: >-
-  {{ EDIT: one-line tagline goes here }}
+title: Lei Zhang
+description: "We shape AI, and AI is shaping us back."
 url: "https://resouer.github.io"
 
 theme: minima
@@ -10,9 +9,10 @@ minima:
   date_format: "%b %-d, %Y"
   social_links:
     github: resouer
+    twitter: resouer
+    linkedin: harry-lei-zhang
 
 header_pages:
-  - projects.md
   - blog.md
 
 plugins:

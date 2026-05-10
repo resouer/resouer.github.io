@@ -6,13 +6,9 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include google-analytics.html -%}
-  {%- endif -%}
 
   {%- if jekyll.environment == 'production' -%}
   <!-- Cloudflare Web Analytics -->
   <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "73815a6113644d61bebb4525a4f6d860"}'></script>
-  <!-- End Cloudflare Web Analytics -->
   {%- endif -%}
 </head>
