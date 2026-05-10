@@ -60,7 +60,7 @@ title: Lei Zhang
   </li>
   <li>
     <div class="role-line"><span class="role-company"><img src="/assets/logos/oam.svg" alt="" /><a href="https://oam.dev/">Open Application Model</a></span></div>
-    <p>Cloud-native application delivery specification, co-created by Microsoft and Alibaba.</p>
+    <p>Cloud-native application delivery specification. Co-creator. Co-announced by Microsoft and Alibaba.</p>
   </li>
   <li>
     <div class="role-line"><span class="role-company"><img src="/assets/logos/kata.png" alt="" /><a href="https://katacontainers.io/">Kata Containers</a></span></div>
@@ -113,20 +113,20 @@ title: Lei Zhang
     <p>KubeCon + CloudNativeCon Europe 2019 (Barcelona), with Jun Chen (Ant Financial).</p>
   </li>
   <li>
-    <div class="role-line"><span class="role-title"><a href="https://kccnceu20.sched.com/event/Zesr">Standardizing Applications for the Cloud at a Global Scale</a></span></div>
-    <p>KubeCon + CloudNativeCon Europe 2020, with Jared Watts (Upbound).</p>
+    <div class="role-line"><span class="role-title"><a href="https://kccncosschn19eng.sched.com/speaker/resouer">Some Lessons We Learned from Moving E-business Giant to Cloud Native</a></span></div>
+    <p>KubeCon + CloudNativeCon + Open Source Summit China 2019 (Shanghai), with Siyu Wang (Alibaba).</p>
   </li>
   <li>
     <div class="role-line"><span class="role-title"><a href="https://opensource.microsoft.com/blog/2019/10/16/announcing-open-application-model/">Announcing the Open Application Model</a></span></div>
     <p>QCon Shanghai 2019. Joint launch of the OAM open-source project from Alibaba Cloud and Microsoft.</p>
   </li>
   <li>
-    <div class="role-line"><span class="role-title"><a href="https://kccncosschn19eng.sched.com/speaker/resouer">Some Lessons We Learned from Moving E-business Giant to Cloud Native</a></span></div>
-    <p>KubeCon + CloudNativeCon + Open Source Summit China 2019 (Shanghai), with Siyu Wang (Alibaba).</p>
-  </li>
-  <li>
     <div class="role-line"><span class="role-title"><a href="https://kccnceu19.sched.com/event/MPe9">Surviving Serverless Battle by Secure Runtime, CRI and RuntimeClass</a></span></div>
     <p>KubeCon + CloudNativeCon Europe 2019 (Barcelona), with Xiaoyu Zhang (Alibaba).</p>
+  </li>
+  <li>
+    <div class="role-line"><span class="role-title"><a href="https://kccnceu20.sched.com/event/Zesr">Standardizing Applications for the Cloud at a Global Scale</a></span></div>
+    <p>KubeCon + CloudNativeCon Europe 2020, with Jared Watts (Upbound).</p>
   </li>
 </ul>
 
