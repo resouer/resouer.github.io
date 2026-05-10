@@ -164,7 +164,7 @@ title: Lei Zhang
   </li>
   <li>
     <div class="role-line"><span class="role-title"><a href="https://kccncna19.sched.com/event/WeWJ">Introduction to the CNCF App Delivery SIG</a></span></div>
-    <p>KubeCon + CloudNativeCon North America 2019, with Alois Reitbauer (Dynatrace). Also led a follow-up workshop on defining a reference model for cloud-native application delivery.</p>
+    <p>KubeCon + CloudNativeCon North America 2019, with Alois Reitbauer (Dynatrace).</p>
   </li>
   <li>
     <div class="role-line"><span class="role-title"><a href="https://kccnceu19.sched.com/event/MPkI">Deep Dive: Virtual Kubelet</a></span></div>
